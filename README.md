@@ -1,14 +1,16 @@
 <div align="center">
-  <h1>♪ TikTok Web Signature</h1>
+  <h1>♪ TikTok Signature</h1>
 </div>
  
 # Features:
 
-- X-Gnarly (5.3.3)
-- X-Bogus
+- X-Dynosaur, X-Gnarly (5.3.3)
 - Mssdk-Info
 - strData
 - eData
+- ecData
+- TicketGuard
+- Mobile (X-Argus, X-Ladon, X-Gorgon, X-Khronos)
  
 # Contact:
 
